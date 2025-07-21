@@ -1,0 +1,13 @@
+BagM\BagClass.class
+BagM\UserManager.class
+Main\Casheir.class
+GUI\MainGUI$1.class
+GUI\MainGUI.class
+BagM\BagManagerGUI$SearchButtonListener.class
+Main\Bag.class
+Main\User.class
+BagM\BagManager.class
+BagM\BagManagerGUI$AddButtonListener.class
+BagM\BagManagerGUI.class
+BagM\BagManagerGUI$ViewButtonListener.class
+Main\Manager.class

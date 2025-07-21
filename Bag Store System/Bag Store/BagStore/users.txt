@@ -1,0 +1,3 @@
+2,Cashier,c,c
+1,Manager,manager,pass
+3,Cashier,casheir,pass
